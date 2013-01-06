@@ -3,7 +3,7 @@ sextant
 
 web app for finding useful places in slovakia
 
-=======
+---------------------------------------------
 
 Roadmap:
 milestone 1 - basic layout, functional OSM map & geolocation
